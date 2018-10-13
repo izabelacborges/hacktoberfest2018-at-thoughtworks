@@ -1,0 +1,3 @@
+# Jackson Smith
+Expectador 
+> A idéia é muito boa, o evento ta muito bem organizado atendendo todos os níveis de senioridade e com uma galera muito bacana, O unico ponto a melhorar é se possível não realizar o evento após o feriado HAHAHA, muita gente acaba viajando e etc...
