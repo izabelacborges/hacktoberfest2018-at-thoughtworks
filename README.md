@@ -12,7 +12,9 @@ Se você veio pro nosso evento, tem medo ou acha que não tem conhecimento sufic
 ```
 # Nome Sobrenome
 Organizador(a) / Palestrante / Espectador(a)
-<Coloca aqui pra gente o que cê achou do evento :) Aceitamos críticas, sugestões e elogios! (até se cê quiser deixar aquele depoimento tipo orkut pode tá?!)>
+<Coloca aqui pra gente o que cê achou do evento :) Aceitamos críticas, 
+sugestões e elogios! (até se cê quiser deixar aquele depoimento tipo 
+orkut pode tá?!)>
 ```
 
 Depois disso só commitar, dar push, e mandar um pull request. Pronto, fácil assim, e você já tá contribuindo com essa iniciativa linda do Front-end BH de fazer um evento sobre a cultura mais legal da nossa área!
